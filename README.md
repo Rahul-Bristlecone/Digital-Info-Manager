@@ -6,6 +6,6 @@ Digital info manager is an application that will contain the following applicati
 *Product price tracker*,
 *Glambook*,
 *Unit converter*,
-*Pomodoro*
+*Pomodoro*.
 
 Above mentioned applications will be accessed upon login through a login page which will redirect the user to a Dashborad page.
